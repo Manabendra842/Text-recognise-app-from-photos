@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "859187449180",
+    "firebase_url": "https://photoai-2627b.firebaseio.com",
+    "project_id": "photoai-2627b",
+    "storage_bucket": "photoai-2627b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859187449180:android:7bf898678605f8931bc599",
+        "android_client_info": {
+          "package_name": "com.example.photoai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859187449180-oijo13emhit34l1ngdugb0c6mbkq313s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.photoai",
+            "certificate_hash": "6347857d10d743b4f0c1cedbcc8c5a755d0101a5"
+          }
+        },
+        {
+          "client_id": "859187449180-2viqq7cuc6g5cnea121e32fv0sh9gco0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxuVqljUJ85dXHJ8ezVM812nGO9zEWrY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859187449180-2viqq7cuc6g5cnea121e32fv0sh9gco0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
